@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/1Fu1raGrCREAAAAC/f14-tomcat-topgun.gif"  />
+<div class="tenor-gif-embed" data-postid="27617508" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/f14-tomcat-vf31-tomcatters-gif-27617508">F14 Tomcat GIF</a>from <a href="https://tenor.com/search/f14-gifs">F14 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
 
