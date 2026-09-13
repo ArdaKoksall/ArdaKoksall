@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineering @ Politecnico di Torino 🇮🇹</h3>
 
 <p align="center">
-  Second-year CS student building mobile apps and messing with ML on the side.
+  3rd year CE student
 </p>
 
 ---
@@ -10,7 +10,6 @@
 
 ### About
 
-I build software. Mobile, backend, ML — pick a stack, I can do it.
 Computer Engineering @ Politecnico di Torino.
 
 Currently: [CrushNest](https://github.com/ardakoksall/crushnest). tbd
